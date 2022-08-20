@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+sklearn
+pyarrow
+matplotlib
+nltk
+pandarallel
+black[jupyter]
