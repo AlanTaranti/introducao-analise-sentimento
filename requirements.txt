@@ -7,3 +7,4 @@ matplotlib
 nltk
 pandarallel
 black[jupyter]
+seaborn
